@@ -1,2 +1,2 @@
 # CNN_practice
-* [인프런] CNN Fundamentals 공부 내용 정리
+* [인프런] CNN Fundamental 공부 내용 정리
